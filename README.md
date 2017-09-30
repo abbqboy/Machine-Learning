@@ -1,5 +1,5 @@
 # Machine-Learning
-我也不知道我会用Matlab还是Python来ML
+我也不知道我会用Matlab还是Python来ML,所以要学习这个先撸点书啊，放在实验室桌子上岂不是美滋滋。
 
 我先说几句废话好吧！
 
@@ -27,6 +27,6 @@
 
 高等数学+线性代数+概率论
 
-蛤？？这么简单，真的，我们机器学习老师说的。给双一流A类大佬递茶。
+蛤？？这么简单，真的，我们机器学习老师说的，给双一流A类数学系大佬递茶。
 
 ![cha](https://github.com/abbqboy/Sticker/blob/master/photo/%E9%80%92%E8%8C%B6.jpg?raw=true)
