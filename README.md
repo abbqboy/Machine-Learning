@@ -77,7 +77,7 @@ zzzzz
 
 世界上最聪明的人：陶哲轩的实分析
 
-![ss](https://github.com/abbqboy/Sticker/blob/master/photo/%E9%99%B6%E5%93%B2%E8%BD%A9.jpg?raw=true）
+![ssss](https://github.com/abbqboy/Sticker/blob/master/photo/%E9%99%B6%E5%93%B2%E8%BD%A9.jpg?raw=true)
 
 学数学的人都这么帅？？？？
 
