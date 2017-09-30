@@ -91,6 +91,8 @@ zzzz不过我把它看完了，入门用这个贼好。因为这书便宜啊，�
 
 ![xigua](https://github.com/abbqboy/Sticker/blob/master/photo/%E8%A5%BF%E7%93%9C.jpg?raw=true)
 
+嗯，那么再撸点视频呗，[吴恩哥机器学习](http://open.163.com/special/opencourse/machinelearning.html)
+
 溜了溜了，差不多了，够撸半年了。
 
 
