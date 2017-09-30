@@ -7,9 +7,9 @@
 
 ![math](https://github.com/abbqboy/Sticker/blob/master/photo/11111.jpg?raw=true)
 
-身为苞米地短裤男孩，在完全不知道机器学习是啥的情况下把本科毕设做完了。直到毕业后才发现，
+身为苞米地短裤男孩，在完全不知道机器学习是啥的情况下把本科毕设做完了。
 
-我居然默默的做了三个月的图像处理+机器学习。
+直到毕业后才发现，我居然默默的做了三个月的图像处理+机器学习。
 
 ![e](https://github.com/abbqboy/Sticker/blob/master/photo/excuse-me.jpg?raw=true)
 
@@ -30,3 +30,39 @@
 蛤？？这么简单，真的，我们机器学习老师说的，给双一流A类数学系大佬递茶。
 
 ![cha](https://github.com/abbqboy/Sticker/blob/master/photo/%E9%80%92%E8%8C%B6.jpg?raw=true)
+
+那怎么办呢，蛤？
+
+来假东撸点货啊(www.jd.com)
+
+咔咔，购物车。。。这么贵，不学了不学了不学了。。那就百度+xxx.pdf+微盘啊
+
+* 高等数学
+
+也就是咱工科狗的微积分噻。既然是微积分，托马斯大学微积分。
+
+这么厚？换换换，北京大学张筑生先生的 数学分析新讲一，二，三。然后就是大武汉华中科大的多元分析学
+
+* 线性代数
+
+矩阵简直是ML重中之重啊，说的我很会一样的。
+
+zzzzz
+
+![jua](https://github.com/abbqboy/Sticker/blob/master/photo/%E5%AF%B9%E8%A7%92%E6%87%B5%E9%80%BC.jpg?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
