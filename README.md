@@ -51,6 +51,9 @@ zzzzz
 
 ![jua](https://github.com/abbqboy/Sticker/blob/master/photo/%E5%AF%B9%E8%A7%92%E6%87%B5%E9%80%BC.jpg?raw=true)
 
+所以还不丢掉当年的同济线性代数，赶紧撸起天书厚的矩阵论。
+
+看哪本矩阵论呢，我也不知道，我从老板实验室撸回了一本，然后就没有然后了。
 
 
 
