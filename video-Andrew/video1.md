@@ -28,5 +28,16 @@
 
 Field of study that gives computer the ability to learning without being explicitly programmed.
 
+![xiyagqi](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507281759517&di=750663b730fe5b5dac5f89cb7033cc62&imgtype=0&src=http%3A%2F%2Fimg.lenovomm.com%2Fs3%2Fimg%2Fapp%2Fapp-img-lestore%2F7008-2016-07-01083640-1467376600767.jpg%3FisCompress%3Dtrue%26width%3D320%26height%3D480%26quantity%3D1%26rotate%3Dtrue)
+
+* Tom Mitchell(1998)
+
+A computer program is said to learn from experience E with respect to some task T
+
+and some performance measure P,if its performance on T,as measured by P,improves with experience E.
+
+
+
+
 
 
