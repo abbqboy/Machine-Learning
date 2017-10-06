@@ -80,7 +80,11 @@ and some performance measure P,if its performance on T,as measured by P,improves
 
 在很多人说话的情况下，将感兴趣的人说的话分别提取出来
 
+## 强化学习（Reinforcement learning）
 
+对正确的事情给与更多的回报，更少的惩罚。
+
+回报函数。
 
 
 
