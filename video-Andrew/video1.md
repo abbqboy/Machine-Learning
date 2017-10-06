@@ -54,7 +54,7 @@ and some performance measure P,if its performance on T,as measured by P,improves
 
 在这里我们使用了两个因素（年龄和肿瘤尺寸）的多输入多特征进行判断
 
-![breast](
+![breast](https://github.com/abbqboy/Sticker/blob/master/photo/%E4%B9%B3%E8%85%BA%E7%99%8C%E8%89%AF%E6%81%B6%E6%80%A7.png?raw=true)
 
 支持向量机（svm）可以对数据映射到无限维度
 
@@ -66,7 +66,7 @@ and some performance measure P,if its performance on T,as measured by P,improves
 
 这是我本科毕设实现的油菜叶片聚类
 
-![julei](
+![julei](https://github.com/abbqboy/Sticker/blob/master/photo/%E8%81%9A%E7%B1%BB.png?raw=true)
 
 无监督学习聚类问题两个实际应用的例子
 
