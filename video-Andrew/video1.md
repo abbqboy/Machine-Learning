@@ -36,6 +36,17 @@ A computer program is said to learn from experience E with respect to some task 
 
 and some performance measure P,if its performance on T,as measured by P,improves with experience E.
 
+## 监督学习（supervised learning）
+
+* 回归问题
+
+
+
+* 分类问题
+
+
+
+
 
 
 
