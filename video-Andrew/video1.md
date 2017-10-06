@@ -40,9 +40,55 @@ and some performance measure P,if its performance on T,as measured by P,improves
 
 * 回归问题
 
+某一地方的房屋价格与房屋面积统计
 
+通过直线和曲线的拟合，寻得特定面积下的房屋价格。
+
+我们提供的价格就是标准答案（标签），实现了有监督
+
+![fang](https://github.com/abbqboy/Sticker/blob/master/photo/%E6%88%BF%E5%B1%8B%E4%BB%B7%E6%A0%BC.png?raw=true)
 
 * 分类问题
+
+乳腺癌肿瘤良恶性的分类
+
+在这里我们使用了两个因素（年龄和肿瘤尺寸）的多输入多特征进行判断
+
+![breast](
+
+支持向量机（svm）可以对数据映射到无限维度
+
+## Learning theory
+
+## 无监督学习（Unsupervised learning）
+
+常见的有聚类问题
+
+这是我本科毕设实现的油菜叶片聚类
+
+![julei](
+
+无监督学习聚类问题两个实际应用的例子
+
+* 图像处理，对像素进行分组，创建世界3D模型
+
+![sss](http://ww2.sinaimg.cn/large/ad9597a3gw1ea5wwniwvgj20m80gjjtb.jpg)
+
+![sssss](http://ww2.sinaimg.cn/large/ad9597a3gw1ea5wwniwvgj20m80gjjtb.jpg)
+
+* 独立组件分析
+
+鸡尾酒舞会
+
+在很多人说话的情况下，将感兴趣的人说的话分别提取出来
+
+
+
+
+
+
+
+
 
 
 
