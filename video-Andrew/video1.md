@@ -74,7 +74,7 @@ and some performance measure P,if its performance on T,as measured by P,improves
 
 ![sss](http://ww2.sinaimg.cn/large/ad9597a3gw1ea5wwniwvgj20m80gjjtb.jpg)
 
-* 独立组件分析
+* 独立组件分析(ICA算法)
 
 鸡尾酒舞会
 
