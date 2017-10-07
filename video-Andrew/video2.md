@@ -78,7 +78,7 @@ y包含m维向量训练集：
 
 ![sssss](http://images.cnitblog.com/blog/492570/201409/082157219655764.png)
 
-又因为，根据最小二乘规则，代价函数可以写成：
+又因为![qqqq](http://images.cnitblog.com/blog/492570/201409/082158401999562.png)，根据最小二乘规则，代价函数可以写成：
 
 ![qqqq](http://images.cnitblog.com/blog/492570/201409/082159422468873.png)
 
@@ -88,7 +88,8 @@ y包含m维向量训练集：
 
 Thus, the value of θ that minimizes J(θ) is given in closed form by the equation：
 
-![ii](http://images.cnitblog.com/blog/492570/201409/082209329966663.png)
+当导数=0
+
 ![ppp](http://images.cnitblog.com/blog/492570/201409/082210227775354.png)
 ![sss](http://images.cnitblog.com/blog/492570/201409/082210227775354.png)
 
