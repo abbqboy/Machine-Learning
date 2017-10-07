@@ -44,9 +44,17 @@ y = 输出变量
 
 假设训练样本：
 
+![sss](http://images.cnitblog.com/blog/492570/201409/082153133405821.png)
+
 y包含m维向量训练集：
 
-Thus, the value of θ that minimizes J(θ) is given in closed form by the equation
+![yyy](http://images.cnitblog.com/blog/492570/201409/082154109653649.png)
+
+因为![ss](http://images.cnitblog.com/blog/492570/201409/082156509024886.png)所以
+
+Thus, the value of θ that minimizes J(θ) is given in closed form by the equation：
+
+![sss](http://images.cnitblog.com/blog/492570/201409/082210227775354.png)
 
 
 
