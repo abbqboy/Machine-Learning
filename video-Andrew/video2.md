@@ -52,7 +52,14 @@ y = 输出变量
 
 ![qqq](http://images.cnitblog.com/blog/492570/201409/082124567468939.png)
 
+这里要用到矩阵迹的特性，trace. 对于一个n阶的方阵（n×n）,它的迹(tr)为对角线元素之和：
 
+![qqqq](http://images.cnitblog.com/blog/492570/201409/082133141846068.png)
+
+和其他的一些公式，证明省略。
+
+![qqq](http://img.blog.csdn.net/20160724133045543)
+![rrr](http://img.blog.csdn.net/20160724133056731)
 
 
 
