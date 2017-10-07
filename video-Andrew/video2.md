@@ -50,7 +50,9 @@ y包含m维向量训练集：
 
 ![yyy](http://images.cnitblog.com/blog/492570/201409/082154109653649.png)
 
-因为![ss](http://images.cnitblog.com/blog/492570/201409/082156509024886.png)所以
+因为![ss](http://images.cnitblog.com/blog/492570/201409/082156509024886.png)所以：
+
+![sssss](http://images.cnitblog.com/blog/492570/201409/082157219655764.png)
 
 Thus, the value of θ that minimizes J(θ) is given in closed form by the equation：
 
