@@ -57,6 +57,7 @@ y = 输出变量
 ![qqqq](http://images.cnitblog.com/blog/492570/201409/082133141846068.png)
 
 和其他的一些公式，证明省略。
+tr AB = tr BA
 
 ![qqq](http://img.blog.csdn.net/20160724133045543)
 ![rrr](http://img.blog.csdn.net/20160724133056731)
