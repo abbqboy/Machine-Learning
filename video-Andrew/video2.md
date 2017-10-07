@@ -26,7 +26,7 @@ y = 输出变量
 
 我们可以将监督学习的整个过程用下图表示：
 
-![biaos](
+![biaos](https://github.com/abbqboy/Sticker/blob/master/photo/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E8%BF%87%E7%A8%8B.png?raw=true)
 
 ## 线性回归
 
@@ -37,7 +37,7 @@ y = 输出变量
 
 
 
-
+## LMS algorithm
 
 
 ## 正规方程组
