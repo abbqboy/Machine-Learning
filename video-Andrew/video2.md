@@ -40,6 +40,25 @@ y = 输出变量
 
 
 
+## Least squares revisited 
+
+假设训练样本：
+
+y包含m维向量训练集：
+
+Thus, the value of θ that minimizes J(θ) is given in closed form by the equation
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
