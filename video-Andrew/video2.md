@@ -91,7 +91,7 @@ Thus, the value of θ that minimizes J(θ) is given in closed form by the equati
 当导数=0
 
 ![ppp](http://images.cnitblog.com/blog/492570/201409/082210227775354.png)
-![sss](http://images.cnitblog.com/blog/492570/201409/082210227775354.png)
+![sss](http://images.cnitblog.com/blog/492570/201409/082210380596985.png)
 
 
 
