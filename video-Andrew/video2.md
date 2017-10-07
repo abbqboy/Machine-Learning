@@ -40,7 +40,23 @@ y = 输出变量
 
 
 
-## Least squares revisited 
+## 正规方程组
+
+梯度下降给出了一种求minimizing J的方法。
+
+下面我们讨论第二种方法，而不使用迭代算法。 
+
+### Matrix derivatives(矩阵的求导)
+
+首先定义![ww](http://images.cnitblog.com/blog/492570/201409/082123225904638.png)表示m×n的矩阵，那么对该矩阵进行求导可以用下式表示，可以看出求导后的矩阵仍然为m×n
+
+![qqq](http://images.cnitblog.com/blog/492570/201409/082124567468939.png)
+
+
+
+
+
+
 
 假设训练样本：
 
@@ -53,6 +69,10 @@ y包含m维向量训练集：
 因为![ss](http://images.cnitblog.com/blog/492570/201409/082156509024886.png)所以：
 
 ![sssss](http://images.cnitblog.com/blog/492570/201409/082157219655764.png)
+
+对J(θ)进行求导:
+
+![jjj](http://images.cnitblog.com/blog/492570/201409/082201316999035.png)
 
 Thus, the value of θ that minimizes J(θ) is given in closed form by the equation：
 
