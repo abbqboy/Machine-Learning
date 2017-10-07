@@ -10,6 +10,8 @@
 
 ## 房价预测
 
+![sss](http://img.blog.csdn.net/20161111192340667)
+
 m = #training examples
 
 x = 输入变量
