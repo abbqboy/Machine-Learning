@@ -16,3 +16,9 @@
 为了解决这个问题，让我们改变我们的假设h（x）的形式。 我们会选择
 
 ![aaa](https://github.com/abbqboy/Sticker/blob/master/photo/logistic.jpg?raw=true)
+
+称为逻辑函数或Sigmoid函数。
+
+
+
+## 解读：感知器学习算法
