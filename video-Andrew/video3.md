@@ -7,6 +7,10 @@
 * 感知器算法
 
 
+## 局部加权回归
+
+![www](https://github.com/abbqboy/Sticker/blob/master/photo/%E5%B1%80%E9%83%A8%E5%8A%A0%E6%9D%83%E5%9B%9E%E5%BD%92.png?raw=true)
+
 ## Logistic regression
 
 我们可以忽略分类问题，忽略y是离散值的事实，并使用我们的旧线性回归算法尝试预测y给定x。
